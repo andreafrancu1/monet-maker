@@ -1,1 +1,2 @@
 # monet-maker
+The aim of this project is to build a Generative Adversarial Network by creating and training a generator and a discriminator to generate 7,000 to 10,000 Monet-style images. This project is part of Kaggle's "Getting Started" competition (https://www.kaggle.com/competitions/gan-getting-started) and serves as a mini project for CU Boulder’s DTSA 5511 course. The primary objective with regards to the course is to get a hands on introduction to GAN's rather than optimizing for the highest-performing model through multiple iterations.
